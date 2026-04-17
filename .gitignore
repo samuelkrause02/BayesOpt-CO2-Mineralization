@@ -1,5 +1,36 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*
+
+# Secrets
 .env
 *.env
-.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
