@@ -6,7 +6,7 @@ Bachelor thesis project at the [Chair of Process Systems Engineering (AVT.SVT), 
 
 This repository contains the full Bayesian Optimization (BO) framework, Streamlit-based user interface, and analysis pipeline developed to adaptively explore a four-dimensional process parameter space and identify optimal carbonation conditions from a limited experimental budget.
 
-📄 **[Full thesis (PDF)](./Krause_BachelorThesis_2025.pdf)** · July 2025
+*The full thesis is available on request — please reach out via email.*
 
 ---
 
@@ -92,7 +92,6 @@ qGIBBON (information-theoretic) achieved the lowest average regret (1.03 %), out
 
 ```
 .
-├── Krause_BachelorThesis_2025.pdf    # Full thesis document
 ├── user_interface.py                 # Main Streamlit app
 ├── start_app.py                      # Launcher (handles macOS OpenMP fix)
 ├── config.py                         # Design space, bounds, GP model config
