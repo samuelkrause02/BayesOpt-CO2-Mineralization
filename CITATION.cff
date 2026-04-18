@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this framework or reference the associated thesis, please cite as follows."
+title: "BayesOpt-CO2-Mineralization: Data-Driven Design of Experiments for CO₂ Mineralization using Steel Slag"
+authors:
+  - family-names: Krause
+    given-names: Samuel P.
+    email: sakrause@ethz.ch
+date-released: 2025-09-01
+url: "https://github.com/samuelkrause02/BayesOpt-CO2-Mineralization"
+preferred-citation:
+  type: thesis
+  title: "Data-Driven Design of Experiment for Carbon Mineralization using Steel Slag"
+  authors:
+    - family-names: Krause
+      given-names: Samuel P.
+  year: 2025
+  institution:
+    name: "RWTH Aachen University — Chair of Process Systems Engineering (AVT.SVT)"
+  thesis-type: "Bachelor thesis"
